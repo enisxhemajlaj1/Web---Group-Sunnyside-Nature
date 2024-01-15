@@ -1,0 +1,133 @@
+/* 
+
+Sigma Template
+
+http://www.templatemo.com/tm-479-sigma
+
+*/
+
+body {
+    font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	font-weight: normal;
+	line-height: 34px;
+	background-color: #000;
+}
+
+h1 {
+	font-size: 34px;
+}
+
+h2 {
+	font-size: 30px;
+}
+
+.container-fluid {
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.sigma-icon {
+	font-size: 72px;
+	padding: 30px;
+}
+
+.contact-icon {
+	font-size: 30px;
+	padding: 0 20px 0 0;
+	min-width: 50px;
+}
+
+.site-title {
+	padding: 0;
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+
+.site-title h1 {
+	color: #ffffff;
+}
+
+.site-title h2 {
+	color: #ffffff;
+	font-size: 16px;
+	padding-top: 20px;
+}
+
+.text-center {
+	text-align: center;
+}
+.text-right {
+	text-align: right;
+}
+
+.main-menu {
+	margin-top: 60px;
+}
+
+.navbar {
+	float: right;
+	padding: 0 !important;
+	margin: 0 !important;
+}
+
+.nav-link {
+	padding: 10px 15px;
+	font-size: 18px;
+}
+
+.sigma-hr {
+   	margin: 15px -15px !important;
+}
+
+.sigmapad {
+	padding: 0 1px 1px 0 !important;
+	margin: 0 !important;
+}
+
+.sigmano {
+	padding: 0 !important;
+	margin: 0 !important;
+}
+
+.sigma-home h1 {
+	font-size: 48px;
+}
+.sigma-home p {
+	font-size: 24px;
+	color: #555;
+	line-height: 44px;
+}
+.sigma-home {
+	padding: 0px;
+	padding-top: 150px;
+	padding-bottom: 150px;
+	background: url(../images/tm-sigma-00.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	border-right: 1px solid #fff;
+	border-bottom: 1px solid #fff;
+}
+
+.space40 {
+	margin-bottom: 40px;
+}
+
+.sigma-start {
+	margin: 10px;
+	padding: 16px 40px;
+	min-width: 200px;
+	font-size: 22px;
+}
+
+
+
+.sigma-home p, .sigma-content p, .sigma-section-header p {
+	padding: 20px 0 0 0;
+}
+
+.form-group {
+	margin: 20px 0;
+}
